@@ -24,6 +24,13 @@ Project goals:
 - Master the basics of writing unit tests.
 - Deepen experience in writing Single Page Application (SPA).
 
+![image](https://github.com/Tetiana-KET/eCommerce-Application/assets/99186560/657ad256-532c-4848-93a3-1489355a4348)
+![image](https://github.com/Tetiana-KET/eCommerce-Application/assets/99186560/21d20552-a308-4f68-a304-87120ad918c2)
+![image](https://github.com/Tetiana-KET/eCommerce-Application/assets/99186560/e5fbfb24-1f40-49dc-949d-4a91396a6567)
+![image](https://github.com/Tetiana-KET/eCommerce-Application/assets/99186560/3b8e89cc-f966-419c-a317-61ed87d83c8b)
+![image](https://github.com/Tetiana-KET/eCommerce-Application/assets/99186560/a217eacb-5f1b-4a40-9112-613fa8fdafde)
+
+
 ## Technology stack
 
 - Main library: [**React**](https://react.dev/)
