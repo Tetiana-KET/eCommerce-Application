@@ -1,13 +1,9 @@
 # eCommerce Application
 
-Educational project presented as a demo version of an online shop. The task is focused on gaining knowledge of team development.
+Educational project presented as a demo version of an online shop. The task is focused on gaining knowledge of team development. The e-Commerce application was developed by a team of 3 developers over the course of 4 sprints using the Scrum methodology. The application is a model of an online store that closely resembles reality.
+The application is powered by CommerceTools 🌐, a leading provider of commerce solutions for B2C and B2B enterprises.  CommerceTools provides a 2-month free trial period, and it's possible that by the time you view this project, the key may have expired, and you might not see the products or be able to check the application's functionality. However, you can still study our code.
 
-## Description
-
-The e-Commerce application is being developed by a team of 3 developers over the course of 4 sprints using the Scrum methodology.
-The application is a model of an online store that closely resembles reality.
-
-Key pages in the application include:
+## Key pages in the application include:
 
 - Login and Registration pages 🖥️
 - Main page 🏠
